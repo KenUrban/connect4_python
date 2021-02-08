@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-
+#will this go to me or to the teacher?
 #notes
 #  'e' is empty
 #  'r' is red
